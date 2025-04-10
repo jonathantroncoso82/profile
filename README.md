@@ -50,6 +50,10 @@ Abril 2021 – Dezembro 2024
 **Tecnologias Complementares:**
 Java, Python, SpringBoot, Angular, React, MongoDB, PostgreSQL, AWS, Azure
 
+Projeto Relevante: Levantamento de funcionalidades de negócios e arquitetura técnica para troca de core bancário de Lydians para Matera, incluindo integrações, segurança e análise de aderência.
+
+Consultoria para implementação de sistema antifraude (CPQD) com Matera.
+
 ---
 
 **Santander Brasil**  
@@ -64,6 +68,9 @@ Março 2017 – Março 2021
 **Big Data / Cloud:**
 Apache Kafka, Spark, Kinesis, DynamoDB, AWS Lambda, CloudFormation, EC2, S3
 
+Outros:
+Apache Karaf, Apache Dubbo, Jakarta NoSQL, gRPC, Cloud DevOps com AWS, CI/CD banco de dados, orquestração de infraestrutura.
+
 ---
 
 **Repom S.A.**  
@@ -73,6 +80,7 @@ Janeiro 2012 – Março 2017
 - Liderança técnica e desenho de apps como Ticket Car
 - Desenvolvimento de apps mobile com Xamarin e iOS nativo
 - Integração com SAP, Totvs, Hadoop, Spark, Biztalk, Kafka
+- Garantia de conformidade com PCI-DSS e ISO 27001
 
 ---
 
@@ -82,14 +90,22 @@ Janeiro 2006 – Junho 2012
 
 - BI para governos da América Latina
 - Desenvolvimento em ABAP, ASP.NET, Java, SAP Netweaver
-- Construção de dashboards, ETL, DW e integrações
+- Construção de dashboards, ETL, DW e integrações com sistemas legados
 
 ---
 
 ### 🌐 Portfólio
-Disponível sob demanda com links para apps na loja, GitHub e cases reais.
+Disponível sob demanda com links para apps na loja, GitHub e cases reais.  
+Repositório principal: [github.com/jonathantroncoso82/profile](https://github.com/jonathantroncoso82/profile)
 
 ---
 
 ### 📈 Objetivo Atual
 Atuar como **Desenvolvedor Mobile** em projetos que valorizem boas práticas, arquitetura limpa e foco em performance e usabilidade. Busco empresas que enxergam tecnologia como meio de transformação real para seus usuários.
+
+---
+
+### 🔗 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-a-854329289)  
+📧 jonathantroncoso82@gmail.com
+
